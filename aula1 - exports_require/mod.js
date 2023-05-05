@@ -7,6 +7,7 @@ class Pessoa {
 const nome = 'luiz'
 const sobrenome = 'garrido'
 
+// Exportando a classe Pessoa e os nomes
 module.exports = {
     nome,sobrenome,Pessoa
 }
