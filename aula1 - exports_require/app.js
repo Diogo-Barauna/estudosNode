@@ -1,3 +1,4 @@
+// Fazendo um require por desestruturação
 const { Pessoa,nome,sobrenome } = require('./mod')
 const p1 = new Pessoa('luiz');
 
