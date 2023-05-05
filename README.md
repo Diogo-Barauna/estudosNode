@@ -1,2 +1,2 @@
 # estudosNode
-Repositório para publicar meu material estudado sobre node.js
+Repositório para publicar o que estudei até o momento sobre node.js. Atualmente estou estudando por um curso da udemy
